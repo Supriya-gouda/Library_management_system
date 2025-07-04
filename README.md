@@ -77,8 +77,8 @@ root/
 
 | User Dashboard | Admin Dashboard |
 |----------------|----------------|
-| ![User Dashboard]![image](https://github.com/user-attachments/assets/2d77fd19-0355-4768-abe2-825297223154)
- | ![Admin Dashboard](./frontend/public/admindashboard.png) |
+|![image](https://github.com/user-attachments/assets/2d77fd19-0355-4768-abe2-825297223154)
+ | ![image](https://github.com/user-attachments/assets/abbaaad2-2375-41b9-acb6-dc29aaf92561)|
 
 ---
 
