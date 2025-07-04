@@ -71,13 +71,20 @@ root/
 
 ## Project Screenshots
 
-| Home Page | Login Page |
-|-----------|------------|
-| ![Home Page](./frontend/public/homepage.png) | ![Login Page](./frontend/public/loginpage.png) |
+**Home Page** 
+|----------|
+| ![image](https://github.com/user-attachments/assets/83cc1bcd-5c6c-4986-9f29-17efaa9ef8c3) | 
 
-| User Dashboard | Admin Dashboard |
-|----------------|----------------|
-|![image](https://github.com/user-attachments/assets/2d77fd19-0355-4768-abe2-825297223154)
+**Login Page**
+|----------|
+ | ![Login Page](./frontend/public/loginpage.png) |
+
+**User Dashboard**
+|----------------|
+|![image](https://github.com/user-attachments/assets/2d77fd19-0355-4768-abe2-825297223154) |
+
+**Admin Dashboard**
+|----------------|
  | ![image](https://github.com/user-attachments/assets/abbaaad2-2375-41b9-acb6-dc29aaf92561)|
 
 ---
