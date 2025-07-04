@@ -77,7 +77,7 @@ root/
 
 **Login Page**
 |----------|
- | ![Login Page](./frontend/public/loginpage.png) |
+ |![image](https://github.com/user-attachments/assets/d0ca8966-59be-49b2-a4bc-d338a52d06b7)|
 
 **User Dashboard**
 |----------------|
